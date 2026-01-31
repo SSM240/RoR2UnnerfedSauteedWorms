@@ -1,2 +1,4 @@
 # RoR2UnnerfedSauteedWorms
-Makes Sautéed Worms very silly in RoR2
+A mod for Risk of Rain 2 that does very silly things to Sautéed Worms.
+
+More information can be found on the Thunderstore page.
