@@ -1,6 +1,6 @@
 ﻿{
 	"name": "UnnerfedSauteedWorms",
-	"version_number": "1.0.0",
+	"version_number": "1.0.1",
 	"website_url": "https://github.com/SSM240/RoR2UnnerfedSauteedWorms",
 	"description": "Removes the hidden nerfs to Sautéed Worms, because Gearbox are cowards",
 	"dependencies": [

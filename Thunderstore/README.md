@@ -15,4 +15,4 @@ Well NO MORE! We're throwing all that "game balance" shit out the window! No mor
 
 I have no idea if this is host-only, so I'll stay on the safe side and say **everyone should have the mod, with the same config.**
 
-As always, if anything is broken, ping me on Discord (ssm24) or open an issue on GitHub. Otherwise, enjoy :D
+As always, if anything is broken, ping me on Discord (`ssm24`) or open an issue on GitHub. Otherwise, enjoy :D
