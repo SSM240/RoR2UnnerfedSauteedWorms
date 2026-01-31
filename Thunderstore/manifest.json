@@ -1,0 +1,10 @@
+﻿{
+	"name": "UnnerfedSauteedWorms",
+	"version_number": "1.0.0",
+	"website_url": "",
+	"description": "Removes the hidden nerfs to Sautéed Worms, because Gearbox are cowards",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2108",
+		"RiskofThunder-HookGenPatcher-1.2.3"
+	]
+}
