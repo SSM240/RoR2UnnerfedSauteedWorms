@@ -9,6 +9,8 @@ Well NO MORE! We're throwing all that "game balance" shit out the window! No mor
 
 (Disclaimer: I am not responsible for any GPU fires that this may or may not cause.)
 
+![worms](https://raw.githubusercontent.com/SSM240/RoR2UnnerfedSauteedWorms/refs/heads/main/github-imgs/worms.jpg)
+
 ... oh, and I guess there's also some config to make it less ridiculous, if that's your thing.
 
 I have no idea if this is host-only, so I'll stay on the safe side and say **everyone should have the mod, with the same config.**
